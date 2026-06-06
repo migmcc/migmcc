@@ -1,13 +1,15 @@
-# Miguel Macedo
+# Miguel Alexandre Vieira Santos
 
-Quality Engineer focused on automotive and manufacturing standards.
+Claims Manager at [Bosch](https://www.bosch.pt) — Braga, Portugal.
+Focused on automotive quality, supplier management, and warranty claims in the IATF 16949 environment.
 
 ---
 
 ## What I work on
 
-- Methodologies: FMEA (AIAG-VDA), PPAP, APQP, SPC, MSA, 8D, DMAIC, VDA 6.3
-- Standards: IATF 16949, ISO 9001, AIAG Core Tools, VDA
+- Claims & warranty: root cause analysis, 8D, supplier corrective actions (SCAR), cost recovery
+- Core Tools: FMEA (AIAG-VDA), PPAP, APQP, SPC, MSA, Control Plans
+- Standards: IATF 16949, ISO 9001, AIAG Core Tools, VDA 6.3
 - Tools: Minitab, AI-assisted quality workflows
 
 ## Open source
@@ -18,4 +20,4 @@ PPAP, APQP, SPC, MSA, and VDA 6.3. Reviewed and corrected methodology content ac
 
 ---
 
-[migmcc@gmail.com](mailto:migmcc@gmail.com)
+[migmcc@gmail.com](mailto:migmcc@gmail.com) &nbsp;|&nbsp; Braga, Portugal
