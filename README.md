@@ -1,23 +1,47 @@
 # Miguel Alexandre Vieira Santos
 
-Claims Manager at [Bosch](https://www.bosch.pt) — Braga, Portugal.
-Focused on automotive quality, supplier management, and warranty claims in the IATF 16949 environment.
+Quality Engineering · AI Workflows · Supplier Quality · Automation
 
----
+I work in automotive quality, supplier claims, warranty analysis, root cause investigation, and corrective action systems.
+
+I am also building AI-assisted workflows, reusable skills, and agent-based systems to improve technical work, product delivery, and quality processes.
 
 ## What I work on
 
-- Claims & warranty: root cause analysis, 8D, supplier corrective actions (SCAR), cost recovery
-- Core Tools: FMEA (AIAG-VDA), PPAP, APQP, SPC, MSA, Control Plans
-- Standards: IATF 16949, ISO 9001, AIAG Core Tools, VDA 6.3
-- Tools: Minitab, AI-assisted quality workflows
+- Supplier quality, claims and warranty analysis
+- Root cause analysis, 8D, SCAR and corrective actions
+- IATF 16949, ISO 9001, AIAG Core Tools and VDA methods
+- AI-assisted quality workflows
+- Reusable skills, agents and quality gates
+- Product and delivery systems for AI projects
 
-## Open source
+## Current Projects
 
-Contributing to [Quality-Engineering-Skills](https://github.com/RBraga01/Quality-Engineering-Skills) —
-a library of 22 quality engineering skills and 8 AI agents covering ISO 9001, IATF 16949, AIAG-VDA FMEA,
-PPAP, APQP, SPC, MSA, and VDA 6.3. Reviewed and corrected methodology content across two release cycles.
+| Project                    | Focus                                                                     | Status        |
+| -------------------------- | ------------------------------------------------------------------------- | ------------- |
+| SkillLab                   | Research and quality lab for reusable AI skills, agents and builder packs | Active        |
+| Quality Engineering Skills | Skills and agents for automotive quality methods                          | Contributing  |
+| A-Team / Builder Packs     | Agent and skill ecosystem for product, AI, growth and design workflows    | Collaborating |
+| AI Content Pipeline        | Content workflows for LinkedIn, Instagram and blog publishing             | Planned       |
 
----
+## Open Source & Collaboration
 
-[migmcc@gmail.com](mailto:migmcc@gmail.com) &nbsp;|&nbsp; Braga, Portugal
+I collaborate on projects related to AI agents, skill-based workflows, quality engineering, evaluation standards, and delivery workflows.
+
+My work connects practical quality engineering experience with reusable systems that help teams investigate problems, improve processes, and deliver better technical outcomes.
+
+## Technical Areas
+
+- Markdown-based systems
+- GitHub workflows
+- AI agents and skills
+- Prompt engineering
+- Quality gates
+- Process automation
+- Root cause analysis
+
+## Contact
+
+- Braga, Portugal
+- Email: [migmcc@gmail.com](mailto:migmcc@gmail.com)
+- LinkedIn: [LinkedIn](ADD-LINK-HERE)
