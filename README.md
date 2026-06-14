@@ -44,4 +44,5 @@ My work connects practical quality engineering experience with reusable systems 
 
 - Braga, Portugal
 - Email: [migmcc@gmail.com](mailto:migmcc@gmail.com)
+- GitHub: [github.com/migmcc](https://github.com/migmcc)
 - LinkedIn: [LinkedIn](ADD-LINK-HERE)
