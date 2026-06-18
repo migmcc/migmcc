@@ -20,7 +20,7 @@ I am also building AI-assisted workflows, reusable skills, and agent-based syste
 | Project                    | Focus                                                                     | Status        |
 | -------------------------- | ------------------------------------------------------------------------- | ------------- |
 | SkillLab                   | Research and quality lab for reusable AI skills, agents and builder packs | Active        |
-| Quality Engineering Skills | Skills and agents for automotive quality methods                          | Contributing  |
+| Quality Engineering Skills | Skills and agents for automotive quality methods                          | Co-Autor      |
 | A-Team / Builder Packs     | Agent and skill ecosystem for product, AI, growth and design workflows    | Collaborating |
 | AI Content Pipeline        | Content workflows for LinkedIn, Instagram and blog publishing             | Planned       |
 
