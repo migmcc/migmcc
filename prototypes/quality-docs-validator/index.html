@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quality Docs Validator — PFMEA & Control Plan consistency | Miguel</title>
+<meta name="description" content="Local-first Python CLI to identify potential PFMEA and Control Plan inconsistencies in XLSX workbooks. Explicit checks, severity-classified findings and reports.">
+<meta name="robots" content="noindex,nofollow">
+<style>
+:root{color-scheme:dark;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:#0b1220;color:#f3f6fc}*{box-sizing:border-box}body{margin:0;line-height:1.65}a{color:#9ac8ff}a:focus-visible{outline:3px solid #fbbf24;outline-offset:3px}.wrap{max-width:1060px;margin:auto;padding:0 24px}header{border-bottom:1px solid #2b3b52;padding:18px 0}nav{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}nav a{text-decoration:none}main{padding:72px 0}h1{font-size:clamp(2.4rem,6vw,4.4rem);line-height:1.1;max-width:850px;margin:20px 0}h2{font-size:1.7rem;margin-top:55px}.eyebrow{letter-spacing:.12em;text-transform:uppercase;color:#8bc8e8;font-size:.8rem;font-weight:700}.lead{font-size:1.25rem;color:#c3d0e1;max-width:780px}.actions{display:flex;gap:14px;flex-wrap:wrap;margin:30px 0}.btn{display:inline-block;padding:12px 20px;border:1px solid #6882a4;border-radius:10px;text-decoration:none;font-weight:650}.primary{background:#d5e9ff;color:#101b2e;border-color:#d5e9ff}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.card{border:1px solid #30435c;border-radius:14px;padding:22px;background:#131f31}.card h3{margin-top:0}.muted{color:#bac9dc}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#050b16;border:1px solid #30435c;border-radius:12px;padding:22px}footer{border-top:1px solid #30435c;padding:24px 0;color:#bac9dc}@media(max-width:700px){.grid{grid-template-columns:1fr}main{padding:42px 0}}
+</style></head><body><header><div class="wrap"><nav><strong>MigMCC / Open Source</strong><a href="https://github.com/migmcc">GitHub profile ↗</a></nav></div></header>
+<main class="wrap"><p class="eyebrow">Project pilot · Quality Engineering · Python CLI</p><h1>Find gaps between PFMEA and Control Plan before they become surprises.</h1>
+<p class="lead">Quality Docs Validator cross-checks two XLSX workbooks using explicit rules and generates severity-classified potential findings. Runs locally, with no AI dependency.</p>
+<div class="actions"><a class="btn primary" href="https://github.com/migmcc/quality-docs-validator">View source on GitHub ↗</a><a class="btn" href="https://github.com/migmcc/quality-docs-validator/blob/main/docs/FINDINGS.md">Explore the checks</a></div>
+<h2>Why it exists</h2><p class="muted">A PFMEA and a Control Plan may look complete when reviewed separately while missing a shared process step, special-characteristic control or reaction plan. This tool highlights potential inconsistencies for an engineer to assess.</p>
+<h2>What it does</h2><div class="grid"><section class="card"><h3>Compare</h3><p>Match process steps between PFMEA and Control Plan XLSX files.</p></section><section class="card"><h3>Flag</h3><p>Apply six documented checks and classify potential findings.</p></section><section class="card"><h3>Report</h3><p>Generate Markdown or JSON output for human review and automation.</p></section></div>
+<h2>Try it locally</h2><pre><code>pip install -e .
+qdv pfmea-control-plan \
+  --pfmea examples/pfmea.xlsx \
+  --control-plan examples/control-plan.xlsx \
+  --out report.md</code></pre><p class="muted">Run from a local checkout of the repository with its bundled synthetic examples. Python 3.12+ required.</p>
+<h2>Scope and limitations</h2><p>This tool supports, but does not replace, technical engineering review. Its findings are potential inconsistencies, not a certification of regulatory or standards compliance. It does not provide a web interface or QMS integration.</p>
+<div class="actions"><a class="btn primary" href="https://github.com/migmcc/quality-docs-validator/blob/main/README.md">Read installation and documentation ↗</a></div>
+</main><footer><div class="wrap">Quality Docs Validator · MIT licensed · Project preview by MigMCC. This draft is not a published GitHub Pages site.</div></footer></body></html>
