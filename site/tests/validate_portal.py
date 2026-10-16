@@ -13,6 +13,7 @@ from urllib.parse import unquote, urlsplit
 SITE = Path(__file__).resolve().parents[1]
 EXPECTED = [
     "index.html",
+    "404.html",
     "about/index.html",
     "projects/index.html",
     "projects/quality-docs-validator/index.html",
