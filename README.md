@@ -1,5 +1,7 @@
 # Miguel Alexandre Vieira Santos
 
+![MigMCC — engineering discipline, practical software](assets/profile-hero.svg)
+
 ### Quality Engineering × Open-Source Software × AI Workflows
 
 I build **practical, explainable tools** for engineers and developers — from cross-checking quality documents to auditing repositories and coordinating AI-assisted projects.
