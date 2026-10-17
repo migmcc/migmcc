@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://migmcc.github.io/sitemap.xml
